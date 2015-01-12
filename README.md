@@ -19,12 +19,12 @@ and Application Security and Privacy (ACM CODASPY 2015). Currently,
 please use the following bibtex reference to cite our paper:
 
 ```
-@inproceedings{StaDynA_Zhauniarovich2014,
+@inproceedings{StaDynA_Zhauniarovich2015,
     author = {Zhauniarovich, Yury and Ahmad, Maqsood and Gadyatskaya, Olga and Crispo, Bruno and Massacci, Fabio},
     title = {{StaDynA: Addressing the Problem of Dynamic Code Updates in the Security Analysis of Android Applications}},
     booktitle = {Proceedings of the 5th ACM Conference on Data and Application Security and Privacy},
     series = {CODASPY '15},
-    pages = {to appear},
+    note = {to appear},
     year = {2015},
 }
 ``` 
