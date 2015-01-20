@@ -15,8 +15,11 @@ This work has been done at the University of Trento.
 
 ##Publication
 The results of our research will be presented at the 5th ACM Conference on Data 
-and Application Security and Privacy (ACM CODASPY 2015). Currently, 
-please use the following bibtex reference to cite our paper:
+and Application Security and Privacy (ACM CODASPY 2015). 
+
+The paper can be found on my [personal webpage](http://www.zhauniarovich.com/pubs.html).
+
+Currently, please use the following bibtex reference to cite our paper:
 
 ```
 @inproceedings{StaDynA_Zhauniarovich2015,
